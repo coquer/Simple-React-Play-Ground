@@ -1,0 +1,14 @@
+[  
+   {  
+      "id":58,
+      "user":{  
+         "id":60,
+         "email":"demo@demo.com"
+      },
+      "name":"Demo User",
+      "tlf":"12345678",
+      "address1":"Amagerbrogade 66",
+      "postal_code":"2300",
+      "city":"Kobenhavn S",
+   }
+]
